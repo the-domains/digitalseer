@@ -2,6 +2,7 @@ name: DigitalSeer
 favicon: null
 layout_spectrum: 0.7806000092532486
 typography_spectrum: 0.16217950987629592
+title: blog.dimitrigarcia.com
 cta:
   domain: null
   bucket: null
