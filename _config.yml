@@ -1,5 +1,8 @@
+name: DigitalSeer
+favicon: null
+layout_spectrum: 0.99364
+typography_spectrum: 0.9587814
 title: blog.dimitrigarcia.com
-purpose: []
 collections:
   - index:
       path: /
@@ -12,30 +15,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 1
-  brandStrength: 0.1472478043287992
-  lightness: 0.2275986
   brandColors:
     - '#52BBE2'
     - '#000101'
     - '#3299D1'
     - '#1B3F4E'
     - '#0E2027'
+  brandStrength: 0.1472478043287992
+  lightness: 0.2275986
+  saturation: 1
   rhythmicContrast: 0.4444444
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-favicon: null
-name: DigitalSeer
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 0.9587814
-layout_spectrum: 0.7806000092532486
+purpose: []
